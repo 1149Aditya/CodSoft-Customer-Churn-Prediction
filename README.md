@@ -19,7 +19,7 @@ The dataset contains customer information, including:
 - **Feature Engineering**: Creating new features based on existing ones to improve model accuracy.
 - **Modeling**: Logistic Regression, Random Forest, and Gradient Boosting were used to predict churn.
 - **Model Evaluation**: Using metrics such as Accuracy, Precision, Recall, F1-Score, and ROC-AUC for performance evaluation.
-- **Interpretability**: Using SHAP for model interpretability and understanding the importance of various features.
+
 
 ---
 
